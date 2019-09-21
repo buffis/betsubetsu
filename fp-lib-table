@@ -1,5 +1,2 @@
 (fp_lib_table
-  (lib (name ty145p)(type KiCad)(uri ${KIPRJMOD}/libraries/created_by_me/TY-145P/ty145p.pretty)(options "")(descr ""))
-  (lib (name SamacSys_Parts)(type KiCad)(uri C:/Users/bjoke/Downloads/TY-250P-pcb-part-libraries/SamacSys_Parts.pretty)(options "")(descr ""))
-  (lib (name TY-250P)(type KiCad)(uri ${KIPRJMOD}/libraries/created_by_me/TY-250P.pretty)(options "")(descr ""))
 )

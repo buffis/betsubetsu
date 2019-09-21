@@ -1,4 +1,4 @@
-15984576609179930
+15975174705084090
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49083,13 +49083,6 @@ Yellow 5381 Series LED
 0
 2
 2
-MD-80SM
-CUI_MD-80SM
-
-
-0
-11
-11
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -65267,20 +65260,6 @@ rotary encoder
 0
 5
 4
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-TY250P
-TY-250P-2
-Transformer
-0
-8
-8
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -70958,27 +70937,6 @@ transformer flyback
 0
 10
 10
-TY-250P
-TY250P
-TY-250P-2
-Transformer
-0
-8
-8
-ty145footprint
-TY145P
-TY-145P-2
-Transformer
-0
-6
-6
-ty145p
-TY-145P
-
-
-0
-6
-6
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
