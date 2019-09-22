@@ -1,5 +1,5 @@
 (sym_lib_table
   (lib (name DiscreteArrays)(type Legacy)(uri ${KIPRJMOD}/libraries/created_by_me/DiscreteArrays.lib)(options "")(descr ""))
   (lib (name THS7374)(type Legacy)(uri ${KIPRJMOD}/libraries/created_by_me/THS7374/THS7374.lib)(options "")(descr ""))
-  (lib (name betsubetsu-rescue)(type Legacy)(uri ${KIPRJMOD}/betsubetsu-rescue.lib)(options "")(descr ""))
+  (lib (name betsubetsu-rescue)(type Legacy)(uri ${KIPRJMOD}/betsubetsu-rescue.lib)(options "")(descr "")(disabled))
 )
