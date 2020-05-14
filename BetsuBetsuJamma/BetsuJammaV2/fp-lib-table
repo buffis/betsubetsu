@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name others)(type KiCad)(uri C:/Users/bjoke/Documents/GitHub/betsubetsu/BetsuBetsuJamma/BetsuJammaV2/libraries/others)(options "")(descr ""))
+  (lib (name jamma_connector)(type KiCad)(uri C:/Users/bjoke/Documents/GitHub/betsubetsu/BetsuBetsuJamma/BetsuJammaV2/libraries/jamma_connector)(options "")(descr ""))
+)

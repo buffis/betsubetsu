@@ -1,0 +1,4 @@
+TY-250P is in SamacSys_Parts.lib
+which can be downloaded from
+https://www.mouser.se/ProductDetail/Triad-Magnetics/TY-250P?qs=Yx4IQMNd5u7UhIpi75ZQsw==
+through Mouser Library Loader.
