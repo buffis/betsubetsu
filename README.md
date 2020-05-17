@@ -4,6 +4,8 @@ BetsuBetsu is an Open Source Audio+Video splitter for streaming/recording video 
 
 It plugs in between the game and cabinet, and can then be connected to any upscaler + PC for streaming/recording.
 
+![BetsuBetsu](/pics/betsubetsu.jpg "BetsuBetsu")
+
 ## Features
 - MiniDIN 8 RGB video out (same pins as XRGB-Mini, HAS,...), for hooking it up to OSSC.
 - Mono audio output through audio jack.
@@ -40,6 +42,8 @@ It plugs in between the game and cabinet, and can then be connected to any upsca
 6. Calibrate strength of video signals with onboard trimpots
 7. Audio output can be fine-adjusted with onboard "Audio" trimpot.
 
+![Streaming](/pics/batrider.jpg "Streaming")
+
 ## Schematic (v1.0):
 ![Schematic](/pics/schematic.png "Schematic")
 
@@ -50,11 +54,18 @@ It plugs in between the game and cabinet, and can then be connected to any upsca
 https://docs.google.com/spreadsheets/d/1Nb6cgpz1vrsEBL83Tl52jcXvUmsp_AzcXZ7w7m8aYmA/edit?usp=sharing
 
 ## Sample capture:
-Betsu Betsu into OSSC with 4x linedoubling, then captured with USB3HDCAP in OBS, and scaled to 1080p.
+BetsuBetsu + OSSC + Elgato 60 Pro. Scaled to fit inside 1080p in OBS.
 Audio is wired from Betsu Betsu to PC Line in directly.
+https://www.youtube.com/watch?v=HWDo_Xj9CUc
 
-- Blazing Star: https://www.youtube.com/watch?v=uihHkYRbM4E
-- Demon Front: https://www.youtube.com/watch?v=K3Xw-lAzCXM
+BetsuBetsu + XRGB-Mini + Elgato 60 Pro. Scaled to fit inside 1080p in OBS.
+Audio is wired from Betsu Betsu to PC Line in directly.
+https://www.youtube.com/watch?v=Qm8Wi2TviPc
 
+## Misc links:
+Arcade-projects thread:
+https://www.arcade-projects.com/forums/index.php?thread/10551-betsu-betsu-open-source-arcade-audio-video-splitter-for-capture-streaming/
+
+## Misc pics:
 Action shot of prototype board in cab:
-![Installed PCB](/pics/installed_pcb.png "Installed PCB")
+![Installed PCB](/pics/installed.jpg "Installed PCB")
